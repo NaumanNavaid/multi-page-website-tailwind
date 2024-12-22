@@ -7,7 +7,7 @@ const contact = () => {
 
 
         
-            <div className="bg-gradient-to-r from-blue-900 via-gray-800 to-black h- py-16 text-center text-light-text">
+            <div className="bg-gradient-to-r from-blue-900 via-gray-800 to-black h-screen py-16 text-center text-light-text">
           <h1 className="text-white font-bold text-2xl mb-5">
             Contact me at 
           </h1>
